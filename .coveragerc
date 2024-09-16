@@ -1,0 +1,12 @@
+[run]
+omit =
+	# python libraries
+	/usr/*
+	env/*
+	# package files
+	*/__init__.py
+
+[report]
+exclude_lines =
+	__str__
+	__repr__

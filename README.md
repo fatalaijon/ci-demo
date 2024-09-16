@@ -1,6 +1,7 @@
 Continuous Integration Demo
 ===========================
 [![Run Unit Tests](https://github.com/fatalaijon/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/fatalaijon/ci-demo/actions/workflows/python-unittest.yml)
+[![codecov](https://codecov.io/gh/fatalaijon/ci-demo/graph/badge.svg?token=D7IJERBU4B)](https://codecov.io/gh/fatalaijon/ci-demo)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
